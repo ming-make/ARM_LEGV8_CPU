@@ -5,7 +5,7 @@ This CPU is based on the ARM architecture from the textbook: *Computer Organizat
 
 **I'm currently working on it ...**
 
-PS:This is an 'involution' version of CPU because designing a CPU based on the ARM architecture could get a higher score :)
+PS: This is an 'involution' version of CPU because designing a CPU based on the ARM architecture could get a higher score :)
 
 > Expected to be completed by the end of July
 
