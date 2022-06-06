@@ -7,6 +7,6 @@ This CPU is based on the ARM architecture from the textbook: *Computer Organizat
 
 PS:This is an 'involution' version of CPU because designing a CPU based on the ARM architecture could get a higher score :)
 
-   In the near future, I will complete a CPU based on the RISC-V architecture which I'm interested in.
-
 > Expected to be completed by the end of July
+
+> In the near future, I will complete a CPU based on the RISC-V architecture which I'm interested in.
